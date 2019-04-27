@@ -1,0 +1,54 @@
+body {
+    margin:5px;
+   }
+.links{
+    margin:5px;
+    padding:10px;
+    background-color: rgba(255, 255, 255, 0.89);
+    background-image: url(assignmentp/jo.jpg);
+}
+.menu{
+    text-align: left;
+    margin:5px;
+    padding:10px;
+    background-color: rgba(255, 255, 255, 0.89);
+}
+
+header {
+    margin:2px;
+    background-color: rgba(184, 166, 166, 0.89);
+    box-sizing: border-box;
+    
+}
+section {
+    margin:5px;
+    padding:10px;
+    background-color:rgba(255, 255, 255, 0.746);
+}
+
+footer {
+    margin:5px;
+    padding:10;
+    background-color: rgba(73, 69, 69, 0.856);
+}
+h1{
+    text-align: center;
+    color: rgb(241, 12, 12);
+}
+nav{
+    text-align: right;
+}
+
+.description{
+    width: 98%;
+    background: rgba(235, 210, 214, 0.74), 0.753);
+    margin:23px auto;
+    overflow: hidden;
+    border: solid;
+    padding: 10px;
+
+}
+h1{
+    text-align: center;
+}   
+
